@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated wave header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Satyajit%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20·%20ML%20Engineer%20·%20Full%20Stack%20Developer&descAlignY=55&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Satyajit%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&descAlignY=55&descSize=16" />
 
 <!-- Animated typing banner -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=6E7681&center=true&vCenter=true&width=500&lines=Turning+data+into+decisions+📈;Building+AI-powered+products+🤖;Full+Stack+%2B+ML+%3D+✨;Always+learning%2C+always+shipping+🚀)](https://git.io/typing-svg)
@@ -155,10 +155,8 @@ I'm a passionate developer at the intersection of **data science**, **machine le
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/satyajit-patil-1885b3295)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyajitpatil2309@gmail.com)
 
 </div>
 
